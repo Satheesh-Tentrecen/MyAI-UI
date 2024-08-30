@@ -1,0 +1,126 @@
+{
+    "categories" : [
+        "healthcare",
+        "financial",
+        "investement",
+        "banking",
+        "personal"
+    ],
+    "aboutPage" : [
+        {
+          "name": "Terms of use ",
+          "url": "/terms-of-use"
+        },
+        {
+          "name": "About our ads",
+          "url": "/about-ads"
+        },
+        {
+          "name": "How we personalize",
+          "url": "/presonalizations"
+        },
+        {
+          "name": "Third-party notices",
+          "url": "/third-party"
+        },
+        {
+          "name": "Build version",
+          "url": "/build-version"
+        }
+      ],
+    "feedbackPages" : [
+        {
+          "name": "I like something",
+          "icon": "bx-happy-alt"
+        },
+        {
+          "name": "I don’t like something",
+          "icon": "bx-sad"
+        },
+        {
+          "name": "I have a suggestion",
+          "icon": "bx-happy-beaming"
+        }
+      ],
+    "accounts" : [
+        {
+          "name": "SMS",
+          "isActive": false
+        },
+        {
+          "name": "Linkedin",
+          "isActive": false
+        },
+        {
+          "name": "Outlook",
+          "isActive": false
+        },
+        {
+          "name": "Gmail",
+          "isActive": false
+        },
+        {
+          "name": "Phone pay",
+          "isActive": false
+        },
+        {
+          "name": "G pay",
+          "isActive": false
+        }
+      ],
+      "policyPages":[
+        {
+          "name": "Privacy Statement",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Privacy Dashboard",
+          "url": "/privacy-dashboad"
+        },
+        {
+          "name": "Clear app data",
+          "url": "/clear-data"
+        },
+        {
+          "name": "Block ads",
+          "url": "/block-adds"
+        },
+        {
+          "name": "Delete account",
+          "url": "/delete-account"
+        }
+      ],
+      "regionPages" : [
+        {
+          "name": "Country /Region",
+          "value": "India"
+        },
+        {
+          "name": "Display language",
+          "value": "English"
+        },
+        {
+          "name": "Speech language",
+          "value": "English (India)"
+        }
+      ],
+      "themChoices" : [
+        {
+          "name": "Dark",
+          "isActive": false,
+          "icon": "bx-moon"
+        },
+        {
+          "name": "Automatic",
+          "isActive": true,
+          "icon": "bxs-circle-half"
+        }
+      ],
+      "examplePrompts" : [
+        "When my last healthcare checkup?",
+        "Show me CGPA mark at UG",
+        "Last month debit and credit amount",
+        "How much I earn in last year stock market?",
+        "Last month USG Scan?"
+      ]
+}
